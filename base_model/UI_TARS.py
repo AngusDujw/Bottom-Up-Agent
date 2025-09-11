@@ -143,7 +143,7 @@ class UI_TARS:
             base_url="https://ark.cn-beijing.volces.com/api/v3",
             api_key=api_key
         )
-        self.model_name = "doubao-1.5-ui-tars-250328"
+        self.model_name = "doubao-1.5-ui-tars-250428"
 
 
     def call_text_images(self, text_prompt: str, imgs: List[str],
